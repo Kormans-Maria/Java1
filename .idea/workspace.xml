@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="0121">
-      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Astronomy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Astronomy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638792526327</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0121">
+      <created>1638793138159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638793138159</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

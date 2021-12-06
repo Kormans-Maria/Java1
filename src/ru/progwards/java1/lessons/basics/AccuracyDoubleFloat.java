@@ -5,7 +5,7 @@ public class AccuracyDoubleFloat {
 
     }
     public static double volumeBallDouble(double radius) {
-        double result = (4/3) * 3.14 * radius * radius * radius;
+        double result = (4 * 3.14 * radius * radius * radius) /3;
         return result;
     }
 
