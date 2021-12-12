@@ -19,4 +19,8 @@ public class CyclesGoldenFibo {
         return true;
     }
 
+    public static boolean containsDigit(int number, int digit){
+        return true;
+    }
+
 }

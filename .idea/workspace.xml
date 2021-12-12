@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="third task">
+    <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="third task3">
       <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare_if_cycles/CyclesGoldenFibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare_if_cycles/CyclesGoldenFibo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639301122904</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="third task3">
+      <created>1639302143942</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639302143942</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +200,7 @@
     <MESSAGE value="first task" />
     <MESSAGE value="second task" />
     <MESSAGE value="third task" />
-    <option name="LAST_COMMIT_MESSAGE" value="third task" />
+    <MESSAGE value="third task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="third task3" />
   </component>
 </project>
