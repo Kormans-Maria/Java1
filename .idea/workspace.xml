@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="0121 new">
-      <change afterPath="$PROJECT_DIR$/src/pareto/Pareto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare_if_cycles/TriangleSimpleInfo.java" afterDir="false" />
+    <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="first task">
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare_if_cycles/TriangleInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Maria/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Maria/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Maria/ru/progwards/java1/lessons/basics/Astronomy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Maria/ru/progwards/java1/lessons/basics/Astronomy.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638793483684</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first task">
+      <created>1639297630433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639297630433</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first task">
+      <created>1639297755330</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639297755330</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +177,7 @@
     <MESSAGE value="test2" />
     <MESSAGE value="0121" />
     <MESSAGE value="0121 new" />
-    <option name="LAST_COMMIT_MESSAGE" value="0121 new" />
+    <MESSAGE value="first task" />
+    <option name="LAST_COMMIT_MESSAGE" value="first task" />
   </component>
 </project>
