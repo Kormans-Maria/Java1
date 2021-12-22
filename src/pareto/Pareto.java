@@ -75,5 +75,6 @@ public class Pareto {
         double r = (r1+r2)/2;
         double result = r/te;
         return result;
+
     }
 }

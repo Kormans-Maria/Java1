@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="third task5">
+    <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="third task6">
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/classes/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare_if_cycles/CyclesGoldenFibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare_if_cycles/CyclesGoldenFibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Maria/pareto/Pareto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Maria/pareto/Pareto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pareto/Pareto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pareto/Pareto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CyclesGoldenFibo">
+  <component name="RunManager" selected="Application.Pareto">
     <configuration name="AccuracyDoubleFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.progwards.java1.lessons.basics.AccuracyDoubleFloat" />
       <module name="Maria" />
@@ -107,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CyclesGoldenFibo" />
         <item itemvalue="Application.Pareto" />
+        <item itemvalue="Application.CyclesGoldenFibo" />
         <item itemvalue="Application.AccuracyDoubleFloat" />
         <item itemvalue="Application.ReverseDigits" />
         <item itemvalue="Application.Astronomy" />
@@ -208,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639302890627</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="third task6">
+      <created>1639304192161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639304192161</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +241,18 @@
     <MESSAGE value="third task3" />
     <MESSAGE value="third task4" />
     <MESSAGE value="third task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="third task5" />
+    <MESSAGE value="third task6" />
+    <option name="LAST_COMMIT_MESSAGE" value="third task6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pareto/Pareto.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
