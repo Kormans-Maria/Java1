@@ -4,7 +4,15 @@ public class Cow extends Animal{
     public Cow(double weight) {
         super(weight);
     }
+    @Override
+    public AnimalKind getKind(){
+        return AnimalKind.COW;
+    }
 
+    @Override
+    public FoodKind getFoodKind(){
+        return FoodKind.HAY;
+    }
     @Override
     public double getFoodCoeff(){
         double d = 0.05;
