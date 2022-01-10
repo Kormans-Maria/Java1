@@ -41,4 +41,9 @@ public class Animal {
         double x = 0.02;
         return x;
     }
+
+    public String toStringFull(){
+        String s = "I am " + getKind() + ", eat " + getFoodKind() + getFoodCoeff();
+        return s;
+    }
 }
