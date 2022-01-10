@@ -17,4 +17,16 @@ public class ComplexNum {
         return num;
     }
 
+    public ComplexNum mul(ComplexNum num){
+        return num;
+    }
+
+    public ComplexNum div(ComplexNum num){
+        return num;
+    }
+
+    public ComplexNum sub(ComplexNum num){
+        return num;
+    }
+
 }
