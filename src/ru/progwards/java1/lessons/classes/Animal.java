@@ -46,4 +46,9 @@ public class Animal {
         String s = "I am " + getKind() + ", eat " + getFoodKind() + getFoodCoeff();
         return s;
     }
+
+    public double calculateFoodWeight(){
+        double w = getWeight() * getFoodCoeff();
+        return w;
+    }
 }
