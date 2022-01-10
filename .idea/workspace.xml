@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fe280f-63b3-4e81-9d67-1d1a1b6fe9e5" name="Changes" comment="third task6">
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/classes/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Maria/pareto/Pareto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Maria/pareto/Pareto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pareto/Pareto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pareto/Pareto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/classes/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/classes/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
